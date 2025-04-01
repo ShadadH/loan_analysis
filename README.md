@@ -55,13 +55,3 @@ Analyze a dataset of real estate loans to:
 ### 6. Final Memo
 - Produced a professionally written 1–2 page memo summarizing the analysis and findings.
 
-## 🧪 Running the Code
-
-To replicate the analysis:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/case1-loan-analysis.git
-   cd case1-loan-analysis
-
-
