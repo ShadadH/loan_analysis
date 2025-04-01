@@ -28,6 +28,7 @@ Analyze a dataset of real estate loans to:
 
 ## 🗂️ Project Structure
 
+```
 ├── data/
 │   ├── original_download.xlsx        # Raw data downloaded from Bloomberg terminal
 │   ├── cleaned_data.csv              # Cleaned and merged dataset used for analysis
@@ -39,6 +40,7 @@ Analyze a dataset of real estate loans to:
 ├── writeup/
 │   └── Case1_Memo.pdf                # Final 1-2 page memo summarizing findings
 └── README.md                         # Project overview and instructions
+```
 
 
 ## 🔍 Key Steps in the Analysis
