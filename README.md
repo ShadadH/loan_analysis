@@ -30,16 +30,12 @@ Analyze a dataset of real estate loans to:
 
 ```
 ├── data/
-│   ├── original_download.xlsx        # Raw data downloaded from Bloomberg terminal
-│   ├── cleaned_data.csv              # Cleaned and merged dataset used for analysis
-├── scripts/
-│   └── case1_analysis.R              # Main R script containing all analysis steps
-├── output/
-│   ├── summary_statistics.csv        # Output of summary statistics tables
-│   ├── visualizations/               # Folder containing all generated plots and charts
-├── writeup/
-│   └── Case1_Memo.pdf                # Final 1-2 page memo summarizing findings
-└── README.md                         # Project overview and instructions
+│ ├── original_download.xlsx # Raw data downloaded from Bloomberg terminal
+│ ├── cleaned_data.csv # Cleaned and merged dataset used for analysis
+├── Output.docx # Vizualizations
+├── README.md # Project overview and instructions
+├── REDS Writeup.pdf # Final write-up
+├── Script.R # R script with data cleaning, analysis, and visualization 
 ```
 
 
