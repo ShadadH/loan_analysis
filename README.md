@@ -26,10 +26,6 @@ Analyze a dataset of real estate loans to:
 - **ggplot2** and **other visualization libraries**
 - Additional packages as needed for EDA and merging external datasets
 
-## 🗂️ Project Structure
-
-├── data/ │ ├── original_download.xlsx # Raw data from Bloomberg terminal │ ├── cleaned_data.csv # Cleaned and pre-processed data ├── scripts/ │ └── case1_analysis.R # R script for the entire analysis ├── output/ │ ├── summary_statistics.csv # Summary tables │ ├── visualizations/ # Graphs, plots, and charts ├── writeup/ │ └── Case1_Memo.pdf # Final findings and analysis memo └── README.md
-
 ## 🔍 Key Steps in the Analysis
 
 ### 1. Data Acquisition
